@@ -28,4 +28,4 @@ The remaining files are subfunctions or data files required to run the above scr
 
 NOTE
 -----------
-To run the code, make sure that all files are in the same folder. The fixation-probability data should be generated before simulating collective performance. For the sample-allocation simulations, other network types can also be used by changing the network type in the corresponding scripts.
+To run the code, make sure that all files are in the same folder. The fixation-probability data should be generated before simulating collective performance. For the sample-allocation simulations, the network type can be changed in the corresponding Python and MATLAB scripts.
